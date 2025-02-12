@@ -3598,44 +3598,10 @@ No stipulation.
 
 The following revisions have been made to the original document.
 
-+------+--------------+------------------------------------------------+
-| Ver  | Date         | Description                                    |
-| sion |              |                                                |
-+======+==============+================================================+
-| 1    | 05 June,     | -   Initial publication.                       |
-| .0.0 | 2023         |                                                |
-|      |              | \[Note\] This CPS was published after an       |
-|      |              | update based on NAVER Cloud CPS (version       |
-|      |              | 1.6.0).                                        |
-+------+--------------+------------------------------------------------+
-| 1    | 24 August,   | -   Added new root.                            |
-| .0.1 | 2023         | -   Add the 3.2.2.4.7 DNS Change method to the |
-|      |              |     section titled \'3.2.2.4 Validation of     |
-|      |              |     Domain Authorization or Control.           |
-+------+--------------+------------------------------------------------+
-| 1    | 27 December, | -   Updated CAA record domain name in Section  |
-| .0.2 | 2023         |     4.2.4                                      |
-|      |              | -   No longer offering certificate renewals in |
-|      |              |     Section 4.6 and below                      |
-|      |              | -   Treat certificate rekey requests as        |
-|      |              |     requests for the issuance of a new         |
-|      |              |     Certificate in Section 4.7 and below       |
-|      |              | -   Revocation request grace period was        |
-|      |              |     specified in Section 4.9.4                 |
-|      |              | -   Updated online revocation and status       |
-|      |              |     checking availability in Section 4.9.9     |
-|      |              | -   Updated a method for reporting key         |
-|      |              |     compromise in Section 4.9.12               |
-|      |              | -   Updated the activation data generation and |
-|      |              |     installation in Section 6.4 and below      |
-|      |              | -   Typo correction                            |
-+------+--------------+------------------------------------------------+
-| 1    | 17 October,  | -   Revised to reflect updates based on CABF   |
-| .0.3 | 2024         |     BR Version 2.0.7                           |
-|      |              | -   Change of company address                  |
-|      |              | -   Typo correction                            |
-+------+--------------+------------------------------------------------+
-| 1    | 26 November, | -   This document replaces the NAVER Cloud     |
-| .0.4 | 2024         |     Trust Services CPS v1.0.3                  |
-|      |              | -   Update section 7.1.2                       |
-+------+--------------+------------------------------------------------+
+| Ver  | Date           | Description                                      |
+|------|--------------|--------------------------------------------------|
+| 1.0.0 | 05 June 2023  | Initial publication. **Note**: This CPS was published after an update based on NAVER Cloud CPS (version 1.6.0). |
+| 1.0.1 | 24 August 2023 | Added new root. Added the 3.2.2.4.7 DNS Change method to the section titled *3.2.2.4 Validation of Domain Authorization or Control*. |
+| 1.0.2 | 27 December 2023 | Updated CAA record domain name in Section 4.2.4. No longer offering certificate renewals in Section 4.6 and below. Treat certificate rekey requests as requests for the issuance of a new Certificate in Section 4.7 and below. Specified revocation request grace period in Section 4.9.4. Updated online revocation and status checking availability in Section 4.9.9. Updated a method for reporting key compromise in Section 4.9.12. Updated the activation data generation and installation in Section 6.4 and below. Typo correction. |
+| 1.0.3 | 17 October 2024 | Revised to reflect updates based on CABF BR Version 2.0.7. Change of company address. Typo correction. |
+| 1.0.4 | 26 November 2024 | This document replaces the NAVER Cloud Trust Services CPS v1.0.3. Updated Section 7.1.2. |
