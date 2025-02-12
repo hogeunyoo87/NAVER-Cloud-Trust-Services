@@ -5,11 +5,9 @@
 
 ### 26 November 2024
 
-# **Contents**
+## Table of Contents
 
-<details>
-<summary>[1. INTRODUCTION](#introduction-1)</summary>
-
+### [1. INTRODUCTION](#introduction)
 - [1.1 Overview](#overview)
 - [1.2 Document Name and Identification](#document-name-and-identification)
   - [1.2.1 Revisions](#revisions)
@@ -24,20 +22,14 @@
   - [1.4.2 Prohibited Certificate Uses](#prohibited-certificate-uses)
 - [1.5 Policy Administration](#policy-administration)
 - [1.6 Definitions and Acronyms](#definitions-and-acronyms)
-</details>
 
-<details>
-<summary>[2. PUBLICATION AND REPOSITORY RESPONSIBILITIES](#publicaion-and-repository-responsibilities)</summary>
-
+### [2. PUBLICATION AND REPOSITORY RESPONSIBILITIES](#publication-and-repository-responsibilities)
 - [2.1 Repositories](#repositories)
 - [2.2 Publication of Certification Information](#publication-of-certification-information)
 - [2.3 Time or Frequency of Publication](#time-or-frequency-of-publication)
 - [2.4 Access Controls on Repositories](#access-controls-on-repositories)
-</details>
 
-<details>
-<summary>[3. IDENTIFICATION AND AUTHENTICATION](#identification-and-authentication)</summary>
-
+### [3. IDENTIFICATION AND AUTHENTICATION](#identification-and-authentication)
 - [3.1 Naming](#naming)
   - [3.1.1 Type of Names](#type-of-names)
   - [3.1.2 Need for Names to be Meaningful](#need-for-names-to-be-meaningful)
@@ -45,18 +37,8 @@
   - [3.1.4 Rules for Interpreting Various Name Forms](#rules-for-interpreting-various-name-forms)
   - [3.1.5 Uniqueness of Name](#uniqueness-of-name)
   - [3.1.6 Recognition, Authentication, and Role of Trademarks](#recognition-authentication-and-role-of-trademarks)
-- [3.2 Initial Identity Validation](#initial-identity-validation)
-  - [3.2.1 Method to Prove Possession of Private Key](#method-to-prove-possession-of-private-key)
-  - [3.2.2 Authentication of Organization and Domain Identity](#authentication-of-organization-and-domain-identity)
-  - [3.2.3 Authentication of Individual Identity](#authentication-of-individual-identity)
-  - [3.2.4 Non-verified Subscriber Information](#non-verified-subscriber-information)
-  - [3.2.5 Validation of Authority](#validation-of-authority)
-  - [3.2.6 Criteria for Interoperation](#criteria-for-interoperation)
-</details>
 
-<details>
-<summary>[4. CERTIFICATE LIFE-CYCLE OPERATIONAL REQUIREMENTS](#certificate-life-cycle-operational-requirements)</summary>
-
+### [4. CERTIFICATE LIFE-CYCLE OPERATIONAL REQUIREMENTS](#certificate-life-cycle-operational-requirements)
 - [4.1 Certificate Application](#certificate-application)
 - [4.2 Certificate Application Processing](#certificate-application-processing)
 - [4.3 Certificate Issuance](#certificate-issuance)
@@ -69,11 +51,8 @@
 - [4.10 Certificate Status Services](#certificate-status-services)
 - [4.11 End of Subscription](#end-of-subscription)
 - [4.12 Key Escrow and Recovery](#key-escrow-and-recovery)
-</details>
 
-<details>
-<summary>[5. FACILITY, MANAGEMENT, AND OPERATIONAL CONTROLS](#facility-management-and-operational-controls)</summary>
-
+### [5. FACILITY, MANAGEMENT, AND OPERATIONAL CONTROLS](#facility-management-and-operational-controls)
 - [5.1 Physical Security Controls](#physical-security-controls)
 - [5.2 Procedural Controls](#procedural-controls)
 - [5.3 Personnel Controls](#personnel-controls)
@@ -82,11 +61,8 @@
 - [5.6 Key Changeover](#key-changeover)
 - [5.7 Compromise and Disaster Recovery](#compromise-and-disaster-recovery)
 - [5.8 CA or RA Termination](#ca-or-ra-termination)
-</details>
 
-<details>
-<summary>[6. TECHNICAL SECURITY CONTROLS](#technical-security-controls)</summary>
-
+### [6. TECHNICAL SECURITY CONTROLS](#technical-security-controls)
 - [6.1 Key Pair Generation and Installation](#key-pair-generation-and-installation)
 - [6.2 Private Key Protection and Cryptographic Module Engineering Controls](#private-key-protection-and-cryptographic-module-engineering-controls)
 - [6.3 Other Aspects of Key Pair Management](#other-aspects-of-key-pair-management)
@@ -95,19 +71,13 @@
 - [6.6 Life Cycle Technical Controls](#life-cycle-technical-controls)
 - [6.7 Network Security Controls](#network-security-controls)
 - [6.8 Time-Stamping](#time-stamping)
-</details>
 
-<details>
-<summary>[7. CERTIFICATE, CRL, AND OCSP PROFILES](#certificate-crl-and-ocsp-profiles)</summary>
-
+### [7. CERTIFICATE, CRL, AND OCSP PROFILES](#certificate-crl-and-ocsp-profiles)
 - [7.1 Certificate Profile](#certificate-profile)
 - [7.2 CRL Profile](#crl-profile)
 - [7.3 OCSP Profile](#ocsp-profile)
-</details>
 
-<details>
-<summary>[8. COMPLIANCE AUDIT AND OTHER ASSESSMENTS](#compliance-audit-and-other-assessments)</summary>
-
+### [8. COMPLIANCE AUDIT AND OTHER ASSESSMENTS](#compliance-audit-and-other-assessments)
 - [8.1 Frequency and Circumstances of Assessment](#frequency-and-circumstances-of-assessment)
 - [8.2 Identity/Qualifications of Assessor](#identityqualifications-of-assessor)
 - [8.3 Assessor's Relationship to Assessed Entity](#assessors-relationship-to-assessed-entity)
@@ -115,11 +85,8 @@
 - [8.5 Actions Taken as a Result of Deficiency](#actions-taken-as-a-result-of-deficiency)
 - [8.6 Communications of Results](#communications-of-results)
 - [8.7 Self-Audits](#self-audits)
-</details>
 
-<details>
-<summary>[9. OTHER BUSINESS AND LEGAL MATTERS](#other-business-and-legal-matters)</summary>
-
+### [9. OTHER BUSINESS AND LEGAL MATTERS](#other-business-and-legal-matters)
 - [9.1 Fees](#fees)
 - [9.2 Financial Responsibility](#financial-responsibility)
 - [9.3 Confidentiality of Business Information](#confidentiality-of-business-information)
@@ -137,7 +104,7 @@
 - [9.15 Compliance with Applicable Law](#compliance-with-applicable-law)
 - [9.16 Miscellaneous Provisions](#miscellaneous-provisions)
 - [9.17 Other Provisions](#other-provisions)
-</details>
+
 
 [APPENDIX A: CHANGE HISTORY](#appendix-a-change-history)
 
